@@ -8,4 +8,10 @@ Run game by pip3 install pygame
 
 ## Dev log
 
-August 10th, 2023: Commit 1, Innitial commit adding basic functionality, updated readme.md
+### August 10th, 2023: 
+
+- Commit 1, Innitial commit adding basic functionality
+
+- Commit 2, updated readme.md, astroid to appear at random x axis
+
+- Commit 3, added stars to appear like traveling through space
